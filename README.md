@@ -23,5 +23,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugene0928&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene0928&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats"/>
